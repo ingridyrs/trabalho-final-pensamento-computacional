@@ -1,4 +1,4 @@
-## trabalho-final-pensamento-computacional
+## trabalho-final-pensamento-computacional-&-transparência-reprodutibilidade-e-uso-ético-de-dados
 Repositório para o trabalho final da disciplina de "Transparência, reprodutibilidade e uso ético de dados", contendo o trabalho da disciplina de "Pensamento Computacional"
 
 O intuito desse repositório é documentar para a disciplina de Transparência, Reprodutibilidade e Uso Ético de Dados o trabalho de Pensamento COmputacional
